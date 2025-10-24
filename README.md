@@ -20,7 +20,7 @@ A imagem gerada pelo Gemini pode ser visualizada abaixo (ou no link direto, caso
 
 [Ver a Imagem Gerada Aqui](COLE_O_LINK_PÚBLICO_DA_IMAGEM_AQUI)
 
-![Fisiculturista Gerado por IA](COLE_O_LINK_PÚBLICO_DA_IMAGEM_AQUI)
+![Fisiculturista Gerado por IA](fisurealista.png)
 
 A imagem final alcançou um alto nível de detalhe na pele e na musculatura, embora a IA ainda possa apresentar pequenos artefatos ou inconsistências em áreas complexas (como mãos e rostos), o que levanta a questão do "Natty or Not" (Natural ou Não).
 
